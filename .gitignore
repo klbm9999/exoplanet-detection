@@ -208,3 +208,5 @@ __marimo__/
 
 data/radvel/*.tbl
 data/radvel/*.log
+data/optical_n2k/*.ipac
+data/optical_n2k/*.log
